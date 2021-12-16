@@ -16,11 +16,6 @@ anaconda upload --user uibcdf $PACKAGE_OUTPUT
 conda build purge
 anaconda logout
 ```
-## Install
-
-```
-conda install -c uibcdf pyunitwizard
-```
 
 ## Additional Info
 https://docs.anaconda.com/anaconda-cloud/user-guide/tasks/work-with-packages
