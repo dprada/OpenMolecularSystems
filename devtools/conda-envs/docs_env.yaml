@@ -1,0 +1,18 @@
+channels:
+- uibcdf/label/dev
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- python
+- setuptools
+- numpy
+- openmm
+- sympy
+- openopenmmreporters
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- nbsphinx
+- recommonmark
+- sphinx-markdown-tables
